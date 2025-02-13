@@ -36,3 +36,8 @@ python free_ollama.py
 ```
  3. 过滤后的 URL 和其对应的模型将被保存到 `output.txt` 文件中。
 The filtered URLs and their associated models will be saved in `output.txt`.
+
+
+-----
+## Code with ChatGPT
+This project was created with the help of ChatGPT. Special thanks to OpenAI's language model for assisting with the coding process.
