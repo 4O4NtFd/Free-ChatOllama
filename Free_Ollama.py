@@ -50,7 +50,7 @@ def fetch_model(url):
 
 # 读取txt文件并启动线程
 def main():
-    with open('./9.txt', 'r') as f:
+    with open('./urls.txt', 'r') as f:
         lines = f.readlines()
 
     # 创建线程池
