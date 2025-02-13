@@ -27,12 +27,12 @@ You can install the required libraries with:
 pip install requests tqdm
 ```
 ## 使用方法 / Usage
-1. 准备一个名为 urls.txt 的文件，文件中每行包含一个 URL。
+ 1. 准备一个名为 urls.txt 的文件，文件中每行包含一个 URL。
 Prepare a file named urls.txt containing a list of URLs, one per line.
-2. 运行脚本：
+ 2. 运行脚本：
 Run the script:
 ```bash
 python free_ollama.py
 ```
-3. 过滤后的 URL 和其对应的模型将被保存到 `output.txt` 文件中。
+ 3. 过滤后的 URL 和其对应的模型将被保存到 `output.txt` 文件中。
 The filtered URLs and their associated models will be saved in `output.txt`.
